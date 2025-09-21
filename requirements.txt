@@ -5,3 +5,4 @@ pandas==2.3.2
 Werkzeug==3.1.3
 scikit-learn
 xgboost
+flask_cors
